@@ -1,4 +1,4 @@
-import styles from './App.module.scss'
+import styles from './NavigateButton.module.scss'
 
 interface Data {
   name:string

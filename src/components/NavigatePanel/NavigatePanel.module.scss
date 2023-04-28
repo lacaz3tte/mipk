@@ -1,0 +1,14 @@
+.button_container{
+  @apply flex justify-around border-t-[1px] border-t-blue-500;
+  foo: bar;
+
+  &:hover .button{
+    @apply text-slate-300;
+    foo: bar;
+  }
+
+  &:hover .button:hover{
+    @apply text-[#001B5B];
+    foo: bar;
+  }
+}
