@@ -6,9 +6,9 @@ const Links = () => {
   return (
     <div className="h-full flex flex-col justify-center">
       <div className="flex justify-center">
-        <TelegramIcon />
-        <WhatsupIcon />
         <VKIcon />
+        <WhatsupIcon />
+        <TelegramIcon />
       </div>
     </div>
   )

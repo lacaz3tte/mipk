@@ -8,8 +8,8 @@ const NavigatePanel = () => {
   return (
     <div className={styles.button_container}>
       {
-        navigateButtons.map((e) => {
-          return <NavigateButton name={e} />
+        navigateButtons.map((e,i) => {
+          return <NavigateButton key={i} name={e} />
         })
       }
     </div>

@@ -1,6 +1,3 @@
-import NavigateButton from "./components/NavigatePanel/NavigateButton/NavigateButton";
-import MainPanel from './components/MainPanel/MainPanel';
-import NavigatePanel from "./components/NavigatePanel/NavigatePanel";
 import Header from "./components/Header";
 
 function App() {

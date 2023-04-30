@@ -1,4 +1,4 @@
-import styles from './NavigateButton.module.scss'
+import styles from '../NavigatePanel.module.scss'
 
 interface Data {
   name:string
@@ -6,7 +6,7 @@ interface Data {
 
 const NavigateButton = ({name}:Data) => {
   return (
-    <button className={styles.button }>{name}</button>
+    <button className={styles.button}>{name}</button>
   )
 }
 
