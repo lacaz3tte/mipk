@@ -1,6 +1,6 @@
-import TelegramIcon from '../../../icons/TelegramIcon'
-import WhatsupIcon from '../../../icons/WhatsupIcon'
-import VKIcon from '../../../icons/VKIcon'
+import TelegramIcon from './Buttons/TelegramIcon'
+import WhatsupIcon from './Buttons/WhatsupIcon'
+import VKIcon from './Buttons/VKIcon'
 
 const Links = () => {
   return (

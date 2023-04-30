@@ -1,5 +1,5 @@
 import React from 'react'
-import Lens from '../../../icons/Lens'
+import Lens from './Lens/Lens'
 
 const Input = () => {
   return (

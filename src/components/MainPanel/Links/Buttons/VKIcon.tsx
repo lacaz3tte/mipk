@@ -1,4 +1,4 @@
-import {ReactComponent as VKSVG}from './vk.svg'
+import {ReactComponent as VKSVG}from '../../../../icons/vk.svg'
 
 const VKIcon = () => {
   return (

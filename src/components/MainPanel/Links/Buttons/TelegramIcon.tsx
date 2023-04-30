@@ -1,4 +1,4 @@
-import {ReactComponent as TelegramSVG} from './telegram.svg'
+import {ReactComponent as TelegramSVG} from '../../../../icons/telegram.svg'
 
 const TelegramIcon = () => {
   return (

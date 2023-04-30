@@ -1,4 +1,4 @@
-import {ReactComponent as WhatsupSVG} from './whatsapp.svg'
+import {ReactComponent as WhatsupSVG} from '../../../../icons/whatsapp.svg'
 
 const WhatsupIcon = () => {
   return (
